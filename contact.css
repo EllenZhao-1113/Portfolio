@@ -1,0 +1,54 @@
+.contact-whole {
+    background: #373E40;
+    min-height: 88vh;
+    text-align: center;
+}
+
+.contact-title-div {
+    font-size: 40px;
+    padding-top: 2vh;
+    color: #488286;
+    text-shadow: 2px 2px black;
+}
+
+.contact-subtext-div {
+    font-size: 15px;
+    color: #77878B;
+}
+
+.form-div {
+    padding-top: 2vh;
+}
+
+input[type=text], select, textarea {
+    width: 50%; /* Full width */
+    padding: 5px; /* Some padding */ 
+    border:none;
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 5px; /* Add a top margin */
+    margin-bottom: 3px; /* Bottom margin */
+    resize: none;
+    background-color: #B7D5D4;
+    color: #305252;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    background-color: #B7D5D4;
+    color: #305252;
+    font-size: 15px;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+::placeholder { 
+    color: #305252;
+    opacity: 1; 
+}
+
+input[type=submit]:hover {
+    background-color: #488286;
+}

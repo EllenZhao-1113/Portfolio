@@ -1,0 +1,24 @@
+.code-whole {
+    background: #373E40;
+    min-height: 88vh;
+}
+
+.discourse-title-div, .hash-title-div, .grep-title-div, .web-title-div {
+    font-size: 45px;
+    text-align: center;
+    color: #77878B;
+    padding-top: 1vh;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-bottom: 5px solid #77878B;
+}
+
+.discourse-info-div, .hash-info-div, .grep-info-div, .web-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-top: 3vh;
+    line-height: 30px;
+    padding-bottom: 3vh;
+}

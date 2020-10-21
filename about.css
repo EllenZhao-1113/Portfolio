@@ -1,0 +1,50 @@
+.entire {
+    background: #305252;
+    min-height: 88vh;
+    align-items: center;
+}
+
+.about-title {
+    text-align: center;
+}
+
+.about-text {
+    color: #B7D5D4;
+    font-size: 65px;
+    padding-top: 3vh;
+    text-shadow: 3px 3px #373E40;
+}
+
+.about-info {
+    display: flex;
+    align-items: center;
+    padding-top: 8vh;
+}
+
+.profile-image {
+    flex: 1;
+    margin-left: 5%;
+}
+
+.about-para {
+    flex: 1.25;
+}
+
+.about-words{
+    padding-left: 5%;
+    margin-right: 30%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B7D5D4;
+    font-size: 23px;
+    line-height: 1.5;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 50vh;
+}
+

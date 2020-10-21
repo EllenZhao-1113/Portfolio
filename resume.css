@@ -1,0 +1,190 @@
+.res-whole {
+    background: #373E40;
+    min-height: 88vh;
+}
+
+.edu-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: #B7D5D4;
+    padding-top: 1vh;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-bottom: 5px solid #B7D5D4;
+}
+
+.tufts-title-div {
+    font-size: 35px;
+    padding-top: 2vh;
+    padding-left: 2vw;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.tufts-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    padding-top: 1vh;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.noho-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.noho-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    padding-top: 1vh;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.work-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: #B7D5D4;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-bottom: 5px solid #B7D5D4;
+}
+
+.getty-title-div {
+    font-size: 35px;
+    padding-top: 2vh;
+    padding-left: 2vw;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.getty-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    padding-top: 1vh;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.boba-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.boba-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    padding-top: 1vh;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.classes-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: #B7D5D4;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-bottom: 5px solid#B7D5D4;
+}
+
+.cs-title-div {
+    font-size: 35px;
+    padding-top: 2vh;
+    padding-left: 2vw;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.cs-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    padding-top: 1vh;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.art-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    padding-top: 1vh;
+    line-height: 25px;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.art-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    padding-top: 1vh;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.other-title-div {
+    font-size: 35px;
+    padding-top: 1vh;
+    padding-left: 2vw;
+    color: #488286; 
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.other-info-div {
+    font-size: 20px;
+    color: #B7D5D4;
+    padding-top: 1vh;
+    line-height: 25px;
+    letter-spacing: 1px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.skills-title-div {
+    font-size: 45px;
+    text-align: end;
+    color: #B7D5D4;
+    padding-right: 2vw;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-bottom: 5px solid #B7D5D4;
+}
+
+.skills-info-div {
+    padding-top:2vh;
+    font-size: 20px;
+    color: #B7D5D4;
+    letter-spacing: 1px;
+    line-height: 25px;
+    padding-left: 4vw;
+    padding-bottom: 2vh;
+}
